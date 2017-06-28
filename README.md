@@ -1,6 +1,7 @@
 # django-rest-query
 
 A rest query request args parser for django orm. like no-sql select style.(/?select=id,name,author{*}&id=gte.20&order=id.desc).
+depend on [rest-query](https://github.com/dracarysX/rest-query).
 
 ## Installing
 
